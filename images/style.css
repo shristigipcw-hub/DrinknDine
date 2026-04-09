@@ -1,0 +1,28 @@
+/* Replace GOLD with RED THEME */
+
+.gold-gradient {
+  background: linear-gradient(135deg, #ff0a16, #b1121b);
+}
+
+.gold-text {
+  color: #ff0a16;
+}
+
+.border-gold {
+  border-color: #ff0a16;
+}
+
+.hover-gold-transition:hover {
+  color: #ff0a16;
+  border-color: #ff0a16;
+}
+
+/* Optional background tweaks */
+.bg-dark-card {
+  background: #111;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar-thumb {
+  background: #ff0a16;
+}
